@@ -1,0 +1,6 @@
+## Configure Git
+
+git config --global user.name "Nabila"
+git config --global user.email "nabila@alia.com"
+
+  
